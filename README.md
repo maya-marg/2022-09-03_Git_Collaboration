@@ -9,3 +9,6 @@ git collaboration o riely
 	- 'git branch -a' : list of all branches (current with '*' and green)
 - 'git switch <Name>' : switch Head to branch <Name>
 	- "git checkout <Name>': the same
+
+
+Push request
